@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 8C59-579D
+
+ Directory of C:\Users\manavsh\Desktop\MyProject
+
+05/01/2019  05:57 PM    <DIR>          .
+05/01/2019  05:57 PM    <DIR>          ..
+04/17/2019  09:46 AM               373 test.txt
+05/01/2019  05:57 PM                 0 test2.txt
+               2 File(s)            373 bytes
+               2 Dir(s)  20,584,271,872 bytes free
